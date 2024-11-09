@@ -21,7 +21,7 @@ I'm a self-taught passionate Android developer from India 🇮🇳
 
 - 💼 Android Developer at [BrandbookStudio](http://brandb.in/)
 
-- ❤️ I love writing Kotiln, and and experimental with other techonologies as well
+- ❤️  I love writing Kotlin and enjoy experimenting with other technologies as well.
 
 - 💬 Connect me on [linkedin](https://www.linkedin.com/in/nageshempire)
 
