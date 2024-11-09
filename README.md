@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a self-taught passionate Android developer from India 🇮🇳
+
+**About me**
+
+- 💼 Android Developer at [BrandbookStudio](http://brandb.in/)
+
+- ❤️ I love writing Kotiln, and and experimental with other techonologies as well
+
+- 💬 Connect me on [linkedin](https://www.linkedin.com/in/nageshempire)
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nageshks&theme=transparent" alt="GitHub Streak" /></a>
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nageshks&theme=transparent)](https://github.com/nageshks)
