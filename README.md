@@ -23,7 +23,7 @@ I'm a self-taught passionate Android developer from India 🇮🇳
 
 - ❤️  I love writing Kotlin and enjoy experimenting with other technologies as well.
 
-- 💬 Connect me on [linkedin](https://www.linkedin.com/in/nageshempire)
+- 💬 Connect me on [linkedin](https://www.linkedin.com/in/nageshks)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nageshks&theme=transparent" alt="GitHub Streak" /></a>
 <br />
