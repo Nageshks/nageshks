@@ -19,8 +19,6 @@ I'm a self-taught passionate Android developer from India 🇮🇳
 
 **About me**
 
-- 💼 Android Developer at [BrandbookStudio](http://brandb.in/)
-
 - ❤️  I love writing Kotlin and enjoy experimenting with other technologies as well.
 
 - 💬 Connect me on [linkedin](https://www.linkedin.com/in/nageshks)
