@@ -23,8 +23,10 @@ I'm a self-taught passionate Android developer from India 🇮🇳
 
 - 💬 Connect me on [linkedin](https://www.linkedin.com/in/nageshks)
 
+<!--
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nageshks&theme=transparent" alt="GitHub Streak" /></a>
 <br />
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nageshks&theme=transparent)](https://github.com/nageshks)
 <br />
 [![Nagesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nageshks&theme=transparent&show_icons=true)](https://github.com/nageshks)
